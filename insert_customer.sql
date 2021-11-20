@@ -4,3 +4,7 @@ insert into  Customeer (CustomerID, CustomerFirstName , CustomerLastName  ,Addre
 insert into  Customeer (CustomerID, CustomerFirstName , CustomerLastName  ,Address , City , State , ZipCode , phonenumber) values ("AA07","king","jimmy", "102Avenue","romeoville","chicago",98004,206705704);
 insert into  Customeer (CustomerID, CustomerFirstName , CustomerLastName  ,Address , City , State , ZipCode , phonenumber) values ("AA09","madi","julie", "12Avenue","lilleville","chicago",98004,206705709);
 insert into  Customeer (CustomerID, CustomerFirstName , CustomerLastName  ,Address , City , State , ZipCode , phonenumber) values ("BB123","ram","jan", "12Avenue","lilleville","chicago",98004,206705712);
+ insert into customeer values ('AA11','sam','ray','104Avenue','romeoville','chicago',98004,2066705711);
+  insert into customeer values ('AA12','jon','ray','104Avenue','romeoville','chicago',98004,2066705713);
+  insert into customeer values ('AA14','john','klump','104Avenue','romeoville','chicago',98004,2066705715);
+   insert into customeer values ('AA13','john','ray','104Avenue','romeoville','chicago',98004,2066705714);
