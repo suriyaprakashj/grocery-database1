@@ -1,0 +1,10 @@
+insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ("BB01", "Apple","fruit","califormia",2.99);
+insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ("BB02", "Banana","fruit","califormia",3.99);
+insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ("BB03", "kiwi","fruit","califormia",1.99);
+insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ("BB04", "chic","non vegeteria","chicago",5 );
+insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ('BB04', 'chicken','non vegeterian','chicago',5 );
+insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ('BB06', 'dryfish','non vegeterian','chicago',6 );
+insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ('BB07', 'prawns','non vegeterian','chicago',7 );
+ insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ('BB08', 'beef','non vegeterian','chicago',8 );
+ insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ('BB09', 'pork','non vegeterian','chicago',7 );
+ insert into productdata (productID,ProductName,producttypecategeory,productorigion,productprice) values ('BB10', 'salmonfish','non vegeterian','chicago',9);
